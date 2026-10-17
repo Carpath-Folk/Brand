@@ -24,7 +24,7 @@ An in-development hockey management game focused on building and managing a hock
 **New Beginning**
 *Historical Action RPG*
 
-A planned collection of five independent historical campaigns — Rome & Vikings, Egypt & Persia, Japan & Mongols, Maya & Aztec, and Mali & Zulu — each playable in any order. Completing all five unlocks a unified ending. Early-stage concept, not yet in active development.
+A planned collection of five independent historical campaigns, each playable in any order. Completing all five unlocks a unified ending. Early-stage concept, not yet in active development.
 
 **Hamlet Founders: From Scratch**
 *Settlement-Building Simulation*
