@@ -22,13 +22,14 @@ An in-development hockey management game focused on building and managing a hock
 ### Future Concepts
 
 **New Beginning**
+*Historical Action RPG*
 
-An early-stage concept, not yet in active development.
+A planned collection of five independent historical campaigns — Rome & Vikings, Egypt & Persia, Japan & Mongols, Maya & Aztec, and Mali & Zulu — each playable in any order. Completing all five unlocks a unified ending. Early-stage concept, not yet in active development.
 
 **Hamlet Founders: From Scratch**
-**Settlement-Building Simulation**
+*Settlement-Building Simulation*
 
-An early-stage concept focused on founding and developing a settlement from the ground up — not yet in active development.
+A peaceful settlement-building and economic simulation where players grow a small hamlet into a thriving civilization through resource chains, population growth, and evolving technology. Its defining idea is a living society of individuals — families, aging generations, and settlements that keep evolving with or without the player's direct hand. Early-stage concept, not yet in active development.
 
 ## Our Philosophy
 
