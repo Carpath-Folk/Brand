@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banners/carpath_folk_banner_preview_3to1.png" alt="Carpath Folk banner" width="100%">
+  <img src="assets/banners/carpath_folk_banner.png" alt="Carpath Folk banner" width="100%">
 </p>
 
 # CARPATH FOLK
