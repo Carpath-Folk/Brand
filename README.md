@@ -2,10 +2,6 @@
   <img src="assets/banners/carpath_folk_banner.png" alt="Carpath Folk banner" width="100%">
 </p>
 
-<p align="center">
-  <img src="assets/logo/carpath_folk_logo.png" alt="Carpath Folk logo" width="140">
-</p>
-
 # CARPATH FOLK
 
 **Independent Game Studio & Publisher**
@@ -38,5 +34,9 @@ A planned game focused on founding and developing a settlement from the ground u
 We believe great games give players meaningful choices, interconnected systems, and the freedom to shape their own experience.
 
 ---
+
+<p align="center">
+  <img src="assets/logo/carpath_folk_logo.png" alt="Carpath Folk logo" width="140">
+</p>
 
 © Carpath Folk. All rights reserved.
