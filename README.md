@@ -14,7 +14,7 @@ Carpath Folk is an independent game studio and publisher crafting games built on
 
 ## Games
 
-### <img src="assets/rink_boss/rink_boss_icon.png" width="28" valign="middle"> Rink Boss — *In Development*
+### <a href="https://github.com/Carpath-Folk/Brand"><img src="assets/rink_boss/rink_boss_icon.png" width="28" valign="middle"></a> Rink Boss — *In Development*
 *Hockey Management Simulation*
 
 A deep hockey management sim — build your club through scouting, contracts, and salary-cap strategy, develop talent through your junior team, and shape every game through lines, tactics, and in-game adjustments while watching it unfold in a simplified 3D match viewer.
