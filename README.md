@@ -12,7 +12,11 @@ Carpath Folk is an independent game studio and publisher focused on immersive ma
 
 Our games are built around meaningful choices, interconnected systems, and lasting player experiences.
 
-## Our Games
+## Philosophy
+
+We believe great games give players meaningful choices, interconnected systems, and the freedom to shape their own experience.
+
+## Games
 
 ### Rink Boss — *In Development*
 *Hockey Management Simulation*
@@ -29,10 +33,6 @@ From Scratch
 *Settlement-Building Simulation*
 
 A peaceful settlement-building and economic simulation where players grow a small hamlet into a thriving civilization through resource chains, population growth, and evolving technology. Its defining idea is a living society of individuals — families, aging generations, and settlements that keep evolving with or without the player's direct hand. Early-stage concept, not yet in active development.
-
-## Our Philosophy
-
-We believe great games give players meaningful choices, interconnected systems, and the freedom to shape their own experience.
 
 ---
 
