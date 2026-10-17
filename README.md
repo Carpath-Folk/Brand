@@ -24,8 +24,7 @@ A deep hockey management sim — build your club through scouting, contracts, an
 
 A planned collection of five independent historical campaigns, each playable in any order. Completing all five unlocks a unified ending. Early-stage concept, not yet in active development.
 
-### Hamlet Founders: — *Future Concept*
-From Scratch
+### Hamlet Founders: From Scratch — *Future Concept*
 *Settlement-Building Simulation*
 
 A peaceful settlement-building and economic simulation where players grow a small hamlet into a thriving civilization through resource chains, population growth, and evolving technology. Its defining idea is a living society of individuals — families, aging generations, and settlements that keep evolving with or without the player's direct hand. Early-stage concept, not yet in active development.
