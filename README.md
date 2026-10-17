@@ -35,8 +35,8 @@ We believe great games give players meaningful choices, interconnected systems, 
 
 ---
 
+<p align="center">© Carpath Folk. All rights reserved.</p>
+
 <p align="center">
   <img src="assets/logo/carpath_folk_logo.png" alt="Carpath Folk logo" width="140">
 </p>
-
-© Carpath Folk. All rights reserved.
