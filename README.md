@@ -15,7 +15,7 @@ Our games are built around meaningful choices, interconnected systems, and lasti
 ## Our Games
 
 ### Rink Boss — *In Development*
-**Hockey Management Simulation**
+*Hockey Management Simulation*
 
 An in-development hockey management game focused on building and managing a hockey club.
 
