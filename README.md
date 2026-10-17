@@ -17,7 +17,7 @@ Our games are built around meaningful choices, interconnected systems, and lasti
 ### Rink Boss — *In Development*
 *Hockey Management Simulation*
 
-An in-development hockey management game focused on building and managing a hockey club.
+A deep hockey management sim — build your club through scouting, contracts, and salary-cap strategy, develop talent through your junior team, and shape every game through lines, tactics, and in-game adjustments while watching it unfold in a simplified 3D match viewer.
 
 ### New Beginning — *Future Concept*
 *Historical Action RPG*
