@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/banners/carpath_folk_banner.png" alt="Carpath Folk banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/logo/carpath_folk_logo.png" alt="Carpath Folk logo" width="140">
+</p>
+
 # CARPATH FOLK
 
 **Independent Game Studio & Publisher**
