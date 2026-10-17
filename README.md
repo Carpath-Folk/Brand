@@ -19,14 +19,13 @@ Our games are built around meaningful choices, interconnected systems, and lasti
 
 An in-development hockey management game focused on building and managing a hockey club.
 
-### Future Concepts
-
-**New Beginning**
+### New Beginning — *Future Concept*
 *Historical Action RPG*
 
 A planned collection of five independent historical campaigns, each playable in any order. Completing all five unlocks a unified ending. Early-stage concept, not yet in active development.
 
-**Hamlet Founders: From Scratch**
+### Hamlet Founders: — *Future Concept*
+From Scratch
 *Settlement-Building Simulation*
 
 A peaceful settlement-building and economic simulation where players grow a small hamlet into a thriving civilization through resource chains, population growth, and evolving technology. Its defining idea is a living society of individuals — families, aging generations, and settlements that keep evolving with or without the player's direct hand. Early-stage concept, not yet in active development.
