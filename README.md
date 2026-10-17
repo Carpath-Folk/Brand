@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/banners/carpath_folk_banner.png" alt="Carpath Folk banner" width="100%">
-</p>
+<div align="center">
+
+<img src="assets/banners/carpath_folk_banner.png" alt="Carpath Folk banner" width="100%">
 
 # CARPATH FOLK
 
@@ -9,6 +9,8 @@
 *We create worlds shaped by meaningful decisions.*
 
 Carpath Folk is an independent game studio and publisher crafting games built on deep systems and meaningful choices — from strategic management simulations to story-driven adventures in worlds worth exploring.
+
+</div>
 
 ## Games
 
@@ -28,9 +30,9 @@ From Scratch
 
 A peaceful settlement-building and economic simulation where players grow a small hamlet into a thriving civilization through resource chains, population growth, and evolving technology. Its defining idea is a living society of individuals — families, aging generations, and settlements that keep evolving with or without the player's direct hand. Early-stage concept, not yet in active development.
 
----
+<p align="center"><em>Our games are built around meaningful choices, interconnected systems, and lasting player experiences.</em></p>
 
-*Our games are built around meaningful choices, interconnected systems, and lasting player experiences.*
+---
 
 <p align="center">© Carpath Folk. All rights reserved.</p>
 
