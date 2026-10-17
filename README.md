@@ -14,20 +14,21 @@ Our games are built around meaningful choices, interconnected systems, and lasti
 
 ## Our Games
 
-### Rink Boss
+### Rink Boss — *In Development*
 **Hockey Management Simulation**
 
 An in-development hockey management game focused on building and managing a hockey club.
 
-### New Beginning
-**Planned Game Project**
+### Future Concepts
 
-A future project in development planning.
+**New Beginning**
 
-### Hamlet Founders: From Scratch
+An early-stage concept, not yet in active development.
+
+**Hamlet Founders: From Scratch**
 **Settlement-Building Simulation**
 
-A planned game focused on founding and developing a settlement from the ground up.
+An early-stage concept focused on founding and developing a settlement from the ground up — not yet in active development.
 
 ## Our Philosophy
 
